@@ -1,0 +1,27 @@
+{
+  "name": "sameexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Houssem-Ousji/sameExample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Houssem-Ousji/sameExample/issues"
+  },
+  "homepage": "https://github.com/Houssem-Ousji/sameExample#readme",
+  "devDependencies": {
+    "@cucumber/cucumber": "^8.10.0"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.30.0",
+    "playwright": "^1.30.0"
+  }
+}
